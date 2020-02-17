@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604590585593",
+    "firebase_url": "https://sensorcheck-acd6b.firebaseio.com",
+    "project_id": "sensorcheck-acd6b",
+    "storage_bucket": "sensorcheck-acd6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604590585593:android:742e4a485dc077d9f99428",
+        "android_client_info": {
+          "package_name": "com.example.sensorcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604590585593-7k40plf94uardtt2epgfpkds771qja08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensorcheck",
+            "certificate_hash": "39c3c698bc1090f55202d5b5565e2b3587aa6548"
+          }
+        },
+        {
+          "client_id": "604590585593-hbaj548l94adul2grrnhvhnpdfh77fnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLuRkwDDviDV38MgS_pSNr5h0vLjOIEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604590585593-hbaj548l94adul2grrnhvhnpdfh77fnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
